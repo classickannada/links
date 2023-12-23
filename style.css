@@ -822,3 +822,8 @@ h1 {
   justify-content: center;
   align-items: center;
 }
+div.analytics {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
